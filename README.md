@@ -5,7 +5,7 @@ Building practical software, exploring AI/ML systems, and shipping full-stack pr
 - 🔭 **Currently Building:** [Project Name or Focus Area]
 - 💡 **Exploring:** Agentic workflows, distributed systems, and performance tuning
 - 💬 **Ask Me About:** Python, Swift, full-stack dev, or system architecture
-- 📫 **Reach Out:** [[LinkedIn]](www.linkedin.com/in/seshank-m) • [[Email](seshank0830@gmail.com)]
+- 📫 **Reach Out:** [[LinkedIn]](www.linkedin.com/in/seshank-m) • (seshank0830@gmail.com)
 
 ---
 
