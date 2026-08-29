@@ -8,6 +8,7 @@
   </a>
 </p>
 
+![Snake animation](https://github.com/PlutonicSauce/PlutonicSauce/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 👨‍💻 About Me
@@ -24,3 +25,5 @@ hobbies:
   - working on cars & auto mechanics
   - F1 race dynamics & telemetry
   - hardware tinkering
+
+
