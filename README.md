@@ -1,24 +1,21 @@
-<h3 align="center">seshank / README.md</h3>
-
 ```
-                  ,,,,,,,,,,                    seshank@gmu
-             ,,%%%%%%%%%%%%%%,,                 --------------------
-           ,%%%%%%%%%%%%%%%%%%%%,               OS: ..................... macOS / Windows / Linux
-          %%%%%%          %%%%%%%               Host: ................... George Mason University
-         %%%%%              %%%%%%              Kernel: ................. Build Tank (VP, Fall 2026)
-        %%%%    ,,,,,,,,,    %%%%%              IDE: .................... VS Code, Xcode
-        %%%    %%%%%%%%%%%    %%%%
-        %%%   %%%%%%%%%%%%%   %%%%              Languages.Programming: .. Python, Swift, TypeScript, R
-        %%%    %%%%%%%%%%%    %%%%              Languages.Frameworks: ... Next.js, FastAPI, SwiftUI, AWS CDK
-        %%%%    ,,,,,,,,,    %%%%%              Languages.Real: ......... English
-         %%%%%              %%%%%%
-          %%%%%%          %%%%%%%               Hobbies.Software: ....... Hackathons, full-stack builds
-           ,%%%%%%%%%%%%%%%%%%%%,               Hobbies.Other: .......... Sim racing, car culture
-             ,,%%%%%%%%%%%%%%,,
-                  `''''''''`                    --------------------
-                                                  Email: .................. your.email@gmu.edu
-                                                  GitHub: ................. github.com/yourusername
-                                                  LinkedIn: ............... linkedin.com/in/yourusername
+        _____ ______  _____ _    _          _   _ _  __         seshank@gmu
+       / ____|  ____|/ ____| |  | |   /\   | \ | | |/ /         --------------------
+      | (___ | |__  | (___ | |__| |  /  \  |  \| | ' /          OS: ..................... macOS / Windows / Linux
+       \___ \|  __|  \___ \|  __  | / /\ \ | . ` |  <           Host: ................... George Mason University
+       ____) | |____ ____) | |  | |/ ____ \| |\  | . \          Kernel: ................. Build Tank (VP, Fall 2026)
+      |_____/|______|_____/|_|  |_/_/    \_\_| \_|_|\_\         IDE: .................... VS Code, Xcode
+
+                                                                  Languages.Programming: .. Python, Swift, TypeScript, R
+                                                                  Languages.Frameworks: ... Next.js, FastAPI, SwiftUI, AWS CDK
+                                                                  Languages.Real: ......... English
+
+                                                                  Hobbies.Software: ....... Hackathons, full-stack builds
+                                                                  Hobbies.Other: .......... Sim racing, car culture
+                                                                  --------------------
+                                                                  Email: .................. your.email@gmu.edu
+                                                                  GitHub: ................. github.com/PlutonicSauce
+                                                                  LinkedIn: ............... linkedin.com/in/yourusername
 ```
 
 ### Pinned
@@ -29,5 +26,5 @@
 
 ### GitHub Stats
 
-![Seshank's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Seshank's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlutonicSauce&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutonicSauce&layout=compact&theme=radical)
