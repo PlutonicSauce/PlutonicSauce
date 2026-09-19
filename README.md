@@ -13,7 +13,7 @@
                                                                   Hobbies.Software: ....... Hackathons, full-stack builds
                                                                   Hobbies.Other: .......... Sim racing, car culture
                                                                   --------------------
-                                                                  Email: .................. your.email@gmu.edu
+                                                                  Email: .................. smallir@gmu.edu
                                                                   GitHub: ................. github.com/PlutonicSauce
                                                                   LinkedIn: ............... linkedin.com/in/yourusername
 ```
