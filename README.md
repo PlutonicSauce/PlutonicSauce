@@ -15,7 +15,7 @@
                                                                   --------------------
                                                                   Email: .................. smallir@gmu.edu
                                                                   GitHub: ................. github.com/PlutonicSauce
-                                                                  LinkedIn: ............... linkedin.com/in/yourusername
+                                                                  LinkedIn: ............... linkedin.com/in/seshank-m
 ```
 
 ### Pinned
